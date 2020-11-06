@@ -4,10 +4,7 @@
   </a>
 </p>
 
-
-<p align="center">阿里招p6/p7 <a href="https://thoughts.teambition.com/share/5e3d0aab1efaee001b8bbe9e#title=nodejs_%E9%AB%98%E7%BA%A7%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88/%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6">nodejs</a> / <a href="https://thoughts.teambition.com/share/5e3d0ab7808fb7001a0f0bd0#title=golang%E9%AB%98%E7%BA%A7%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88/%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6">golang</a> / <a href="https://thoughts.teambition.com/share/5e3d5e101efaee001b8bbea1#title=java_高级开发工程师/技术专家
-">java</a> / <a href="https://thoughts.teambition.com/share/5e3d5d071efaee001b8bbea0#title=前端高级工程师/前端技术专家">前端</a> / <a href="https://thoughts.teambition.com/share/5e3d5e101efaee001b8bbea1#title=java_高级开发工程师/技术专家
-">java</a> / <a href="https://thoughts.teambition.com/share/5e3d0aab1efaee001b8bbe9e#title=Python_%E9%AB%98%E7%BA%A7%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88/%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6">Python</a>，支持远程面试 | gaojunqi@outlook.com </p>
+<p align="center">阿里招p6/p7 <a href="https://thoughts.teambition.com/share/5e3d0aab1efaee001b8bbe9e#title=nodejs_%E9%AB%98%E7%BA%A7%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88/%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6">nodejs</a> / <a href="https://thoughts.teambition.com/share/5e3d0aab1efaee001b8bbe9e#title=Python_%E9%AB%98%E7%BA%A7%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88/%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6">Python</a>，支持远程面试 | gaojunqi@outlook.com | 上海 </p>
 
 <h2 align="center">chinese-poetry: 最全中文诗歌古典文集数据库</h2>
 
@@ -96,7 +93,7 @@
 
 - 直接提交 PR 或者通过 issue 讨论来优化完善此数据库，理论上古诗歌体非宗教类都欢迎加入，部分有争议性的数据需要社区投票讨论决定是否加入。关于诗句的纠错在创建 PR 时请标明出处。更多规范请[参考贡献规范文档](https://github.com/chinese-poetry/chinese-poetry/wiki/%E5%8F%82%E4%B8%8E%E8%B4%A1%E7%8C%AE%E8%A7%84%E8%8C%83)。
 
-- 如果你没有办法直接参与完善的过程，你也可以通过 「[Patreon 周期性赞助](https://www.patreon.com/jackeygao)」的形式来持续帮助并激励我去优化完善此数据库。如果您不喜欢周期性赞助，你也可以通过「[支付宝](https://github.com/jackeyGao/JackeyGao.github.io/blob/master/static/images/alipay.png)」或者「[微信赞赏码](https://github.com/jackeyGao/JackeyGao.github.io/blob/master/static/images/wechat.png)」进行一次性赞助(备注留下邮箱)。
+- 如果你没有办法直接参与完善的过程，你也可以通过 「[Patreon 周期性赞助](https://www.patreon.com/jackeygao)」的形式来持续帮助并激励我去优化完善此数据库。如果您不喜欢周期性赞助，你也可以通过「[支付宝](https://github.com/jackeyGao/JackeyGao.github.io/blob/master/static/images/alipay.png)」或者「[微信赞赏码](https://github.com/jackeyGao/JackeyGao.github.io/blob/master/static/images/wechat.jpg)」进行一次性赞助(备注留下邮箱)。
 
 - 如有建议或吐槽，欢迎联系我的邮箱 gaojunqi@outlook.com。
 
@@ -125,6 +122,7 @@
 - [chenyuntc](https://github.com/chenyuntc) **/** [pytorch-book](https://github.com/chenyuntc/pytorch-book/blob/master/chapter9-神经网络写诗(CharRNN)/) *简体唐诗生成(char-RNN)，可生成藏头诗，自定义诗歌意境，前缀等*
 - [okcy1016](https://github.com/okcy1016) **/** [poetry-desktop](https://github.com/okcy1016/poetry-desktop/) *诗词桌面*
 - [huangjianke](https://github.com/huangjianke) **/** [weapp-poem](https://github.com/huangjianke/weapp-poem/) *诗词墨客 小程序版*
+- [汉字之美](https://hz.xusenlin.com/)汉字之美是一个方便查询的诗词网站，简洁干净，方便使用。
 
 </details>
 
